@@ -1,0 +1,6 @@
+{
+    "token": "TON TOKEN DE BOT",
+    "guild": "ID DE TON SERVEUR POUR LE MODMAIL",
+    "blacklist": [],
+    "roles": ["ROLE SUPPORT"]
+}
